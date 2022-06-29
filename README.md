@@ -2,5 +2,5 @@
 フロントエンドはREACT、バックエンドはDjangoで作成しており、このリポジトリはバックエンドです。
 Django REST APIを使用して、GETとPOSTを実装しました。
 
-フロントエンドは以下
+フロントエンドはこちら
 https://github.com/mecchi624/agreach-front
